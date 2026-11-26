@@ -1,8 +1,8 @@
 {
-    "LatestVersion":  "2026.5.13",
+    "LatestVersion":  "2026.5.14",
     "ReleaseDate":  "2026-11-26",
-    "Changelog":  "- Bổ sung chế độ Print Studio gộp nhiều Sheet đánh số trang liên tục \u0026 gom vùng bảng về 1 trang.\n- Bổ sung xuất PDF gộp hàng loạt \u0026 chọn máy in, co gọn 1 trang trong In Nhảy Số Phiếu.\n- Bổ sung File Mẫu 6 Sheet thực chiến cho toàn bộ menu In Ấn.",
-    "DownloadUrl32":  "https://github.com/documatrix2026-tech/VietOffice2026-Release/releases/download/v2026.5.13/VietExcel32.xll",
-    "DownloadUrl64":  "https://github.com/documatrix2026-tech/VietOffice2026-Release/releases/download/v2026.5.13/VietExcel64.xll",
+    "Changelog":  "- Đưa nhóm \u0027Xử Lý Hàng Loạt (VIP)\u0027 lên vị trí ưu tiên trên Ribbon \u0026 phân quyền riêng cho gói VIP Pro.\n- Bổ sung \u0027Gắn nút Tăng/Giảm (Spin Control)\u0027 vào menu chuột phải và sửa giới hạn tạo Spin Button.\n- Nâng cấp giao diện Trung tâm Cập nhật tự động co giãn linh hoạt \u0026 hiển thị sắc nét.\n- Nâng cấp Print Studio (giữ nguyên cửa sổ sau Xem trước/In, đánh số trang liên tục) và xuất PDF gộp hàng loạt.",
+    "DownloadUrl32":  "https://github.com/documatrix2026-tech/VietOffice2026-Release/releases/download/v2026.5.14/VietExcel32.xll",
+    "DownloadUrl64":  "https://github.com/documatrix2026-tech/VietOffice2026-Release/releases/download/v2026.5.14/VietExcel64.xll",
     "IsMandatory":  false
 }
