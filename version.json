@@ -1,8 +1,8 @@
 {
-    "LatestVersion":  "2026.5.16",
+    "LatestVersion":  "2026.5.17",
     "ReleaseDate":  "2026-11-26",
-    "Changelog":  "- Tự động nhớ kích thước, vị trí cửa sổ \u0026 chống nháy toàn cục (DoubleBuffered) khi kéo giãn.\n- Đưa nhóm \u0027Dấu \u0026 Chữ Ký (VIP)\u0027 lên cạnh \u0027Xử Lý Hàng Loạt (VIP)\u0027, phân quyền cho gói VIP Pro \u0026 đồng bộ tên \u0027Chèn Dấu, Chữ Ký\u0027.\n- Đưa \u0027Gắn nút Tăng/Giảm (Spin Control)\u0027 vào menu chuột phải và sửa giới hạn tạo Spin Button.\n- Nâng cấp giao diện Trung tâm Cập nhật tự động co giãn linh hoạt \u0026 Print Studio.",
-    "DownloadUrl32":  "https://github.com/documatrix2026-tech/VietOffice2026-Release/releases/download/v2026.5.16/VietExcel32.xll",
-    "DownloadUrl64":  "https://github.com/documatrix2026-tech/VietOffice2026-Release/releases/download/v2026.5.16/VietExcel64.xll",
+    "Changelog":  "- Nâng cấp Studio Con Dấu: thêm xoay ngẫu nhiên sau mỗi lần đóng (Min° → Max°), chỉnh độ đậm mực (50% → 100%) nhìn xuyên chữ.\n- Thêm tính năng Đóng Dấu Hàng Loạt Nhiều Sheet: hỗ trợ tọa độ riêng từng Sheet, tự dò từ khóa neo (Giám đốc, Kế toán...) và xóa dấu cũ trước khi đóng lại.\n- Phân tầng rõ gói Pro (4 dấu kế toán Mực Đỏ + chèn ảnh thư viện/máy) và gói VIP Pro (Studio, 5 dấu văn thư, Mực Xanh/Tím, đóng nhiều Sheet).\n- Sửa lỗi đè chữ trên Studio Con Dấu, bảo vệ hiển thị ký tự \u0026 và chống đè ngang theo DPI toàn hệ thống.",
+    "DownloadUrl32":  "https://github.com/documatrix2026-tech/VietOffice2026-Release/releases/download/v2026.5.17/VietExcel32.xll",
+    "DownloadUrl64":  "https://github.com/documatrix2026-tech/VietOffice2026-Release/releases/download/v2026.5.17/VietExcel64.xll",
     "IsMandatory":  false
 }
