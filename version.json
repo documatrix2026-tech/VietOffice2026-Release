@@ -1,7 +1,7 @@
 {
     "LatestVersion":  "2026.5.19",
-    "ReleaseDate":  "2026-11-27",
-    "Changelog":  "- Nâng cấp M2 thành Pháo Đài Kiểm Toán Hóa Đơn XML 12 Bộ Dò (TT78/NĐ123): thêm kiểm tra MCCQT, hóa đơn điều chỉnh thiếu hóa đơn gốc, nhảy cóc số đầu ra, xử lý đúng TM/CK, chiết khấu/khuyến mãi (TChat 2-3-4) và thuế suất KHAC:8%.\n- Bổ sung 5 Nghiệp vụ Doanh nghiệp M2: Đối chiếu 3 chiều Excel Tổng cục Thuế (GDT), Định khoản Nợ/Có tự động (TT200/TT133), Soi biến động giá nhập, Chuẩn hóa kho lưu trữ XML và Lọc HĐ ≥ 20Tr chờ UNC.\n- Cập nhật Bộ Mẫu Thực Chiến Siêu Hạng 16 file XML + CSV MST rủi ro.\n- Nâng cấp Studio Con Dấu xoay bằng shape.Rotation sắc nét 0% vát góc \u0026 chống cache CDN cho Auto-Update.",
+    "ReleaseDate":  "2026-11-28",
+    "Changelog":  "- Nâng cấp M2 đọc đa định dạng Hóa đơn Điện tử XML, ZIP & PDF (M-Invoice, MISA, VNPT 6 cột/8 cột): giữ nguyên ký hiệu (1C26TAA), trích xuất Địa chỉ & STK ngân hàng UNC, hỗ trợ Chọn Nhiều File & Kéo-Thả.\n- Nâng cấp giao diện M2 chuẩn TableLayoutPanel 4 tầng: 7 Tab màu SaaS nổi bật, dải lưu ý định dạng đầu vào và 5 nút xuất Excel màu sắc riêng.\n- Xuất Excel công thức sống liên kết: tự động tách HTKK 01-1 (Mua vào) & 01-2 (Bán ra), quy đổi ngoại tệ sang VNĐ, bảo toàn số 0 đầu MST/Số HĐ, và nút Xuất Trọn Bộ Liên Kết (4 Sheet SUMIF).\n- Nâng cấp Pháo Đài Kiểm Toán lên 17 Bộ Dò Thuế Pro (TT78/NĐ123) kèm nút Quét Trạng Thái MST Người Bán Online.\n- Nâng cấp Ribbon Fluent UI 2026 cho nút Cập Nhật Bản Mới & Bản Quyền, đồng bộ Bảng So Sánh M2 và Bộ Mẫu Thực Chiến 21 XML + ZIP + Excel GDT + Workbook 9 Sheet công thức sống.",
     "DownloadUrl32":  "https://github.com/documatrix2026-tech/VietOffice2026-Release/releases/download/v2026.5.19/VietExcel32.xll",
     "DownloadUrl64":  "https://github.com/documatrix2026-tech/VietOffice2026-Release/releases/download/v2026.5.19/VietExcel64.xll",
     "IsMandatory":  false
